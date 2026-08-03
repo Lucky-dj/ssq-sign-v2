@@ -1,6 +1,6 @@
 {
   "name": "ssq-sign",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "尚尚签平台sdk",
   "main": "index.js",
   "scripts": {
