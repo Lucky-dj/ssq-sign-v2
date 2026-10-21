@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ChenYangY/ssq-sign.git"
+    "url": "git+https://github.com/Lucky-dj/ssq-sign-v2.git"
   },
-  "author": "chenyangyang",
+  "author": "chenyangyang,Lucky-dj",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ChenYangY/ssq-sign/issues"
+    "url": "https://github.com/Lucky-dj/ssq-sign-v2/issues"
   },
-  "homepage": "https://github.com/ChenYangY/ssq-sign#readme",
+  "homepage": "https://github.com/Lucky-dj/ssq-sign-v2#readme",
   "dependencies": {
     "got": "^10.7.0",
     "jsrsasign": "^10.1.4",
